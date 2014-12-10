@@ -114,7 +114,6 @@ div
 article /*main content*/
 	{
         background-color: #FFFFFF;
-        height: 20rem;
         text-align:center;
         background-color: #EDF3E0;
         padding: 5rem;
@@ -147,6 +146,7 @@ section /*address and map*/
 
 
 .sidebar {
+        padding-top: 1em;
         display: inline-block;
         width: 15%;
     }
