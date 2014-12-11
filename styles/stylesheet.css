@@ -16,15 +16,9 @@ p
         font-size: .85rem;
         align-content: left;
         color: #533F34;
-        padding: .5rem 1rem 4rem 1rem;
+        padding: .5rem 1rem 2rem 1rem;
        
 	}
-
-img
-{ 
-    padding-right: 1rem;
-    float: left;
-}
 
 
 h1 
@@ -40,7 +34,7 @@ h2
 	{
         color: #533F34;
         padding-top: 1.5rem;
-        padding-bottom: 5rem;
+        padding-bottom: .1rem;
         text-align-last: center;
         font-weight: lighter;
 	}
