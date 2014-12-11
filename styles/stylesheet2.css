@@ -12,8 +12,8 @@ div.wrapper
 
 p 
 	{
-        padding: 2rem 5rem 1rem 2rem;
-        font-size: 1rem;
+        padding: 1rem 2rem .5rem 1rem;
+        font-size: .85rem;
         align-content: left;
         color: #533F34;
 	}
@@ -116,7 +116,7 @@ article /*main content*/
         background-color: #FFFFFF;
         text-align:center;
         background-color: #EDF3E0;
-        padding: 5rem;
+        padding: 2rem;
         margin: 1.5rem 0, 0, 1.5rem;
     }
 
