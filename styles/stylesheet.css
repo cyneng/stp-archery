@@ -16,7 +16,7 @@ p
         font-size: .85rem;
         align-content: left;
         color: #533F34;
-        padding: .5rem 3rem 2rem 1rem;
+        padding: .5rem 1rem 2rem 1rem;
        
 	}
 
@@ -117,7 +117,7 @@ article /*main content*/
 
 aside /*logo*/
    {
-        background-color: #89AE3E;
+        background-color: #EDF3E0;
         padding: 2rem;
         color: #FFFFFF;
         width: 33%;
@@ -144,7 +144,7 @@ footer
 	{
         background-color: #533F34;
         color: #FFFFFF;
-        height: 100px;
+        height: 50px;
         clear: both;
         padding: 5rem;
         font-weight: lighter;
