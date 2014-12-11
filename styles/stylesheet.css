@@ -12,10 +12,12 @@ div#wrapper
 
 p 
 	{
-        padding: 2rem 5rem 1rem 2rem;
-        font-size: 1rem;
+        
+        font-size: .85rem;
         align-content: left;
         color: #533F34;
+        padding: .5rem 3rem 2rem 1rem;
+       
 	}
 
 
@@ -105,11 +107,9 @@ div
 article /*main content*/
 	{
         background-color: #FFFFFF;
-        height: 20rem;
-        text-align:center;
+        height: 42rem;
+        text-align:left;
         background-color: #EDF3E0;
-        padding: 5rem;
-        margin: 1.5rem 0, 0, 1.5rem;
     }
 
 
@@ -123,6 +123,7 @@ aside /*logo*/
         width: 33%;
 		height: 8rem;
         margin-bottom: 20px;
+        margin-top: 20px;
     }
 
 section /*address and map*/
@@ -133,7 +134,7 @@ section /*address and map*/
         width: 33%;
 		height: 8rem;
         margin-bottom: 20px;
-        font-size: 1rem;
+        font-size: .85rem;
     }
 
 
